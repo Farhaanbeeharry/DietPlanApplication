@@ -1,0 +1,24 @@
+overweight@@breakfast@@Bread, egg and salad@@Water@@Juice@@30
+overweight@@breakfast@@Brown toasts, avocado and grilled chicken@@freshly made juice@@fizzy drinks@@30
+overweight@@lunch@@Brown rice, lentils, gilled salmon@@Water@@Juice@@30
+overweight@@lunch@@Brown toast, grilled chicken, spinach@@Water@@Juice@@30
+overweight@@dinner@@cesar salad@@Water@@Juice@@30
+overweight@@dinner@@grilled salmon salad@@green tea@@juice@@30
+normal@@breakfast@@Bread, egg and sausage@@juice@@fizzy drinks@@30
+normal@@breakfast@@Toasts, bacon and grilled chicken@@freshly made juice@@fizzy drinks@@30
+normal@@lunch@@Rice, lentils, chicken chop@@Water@@Juice@@30
+normal@@lunch@@Rice, lentils, grilled salmon, spinach@@Water@@Juice@@30
+normal@@dinner@@pizza@@Water@@Juice@@30
+normal@@dinner@@grilled chicken salad@@water@@juice@@30
+obese@@breakfast@@chia seeds, dry fruits@@water@@fizzy drinks@@60
+obese@@breakfast@@Toast, butter, cheese, banana@@freshly made juice@@fizzy drinks@@30
+obese@@lunch@@Brown rice, boiled fish, lentils@@Water@@Juice@@30
+obese@@lunch@@Brown rice, boiled vegetables, boiled chicken, spinach@@Water@@Juice@@30
+obese@@dinner@@vegetable salad@@Water@@Juice@@30
+obese@@dinner@@greek salad@@water@@juice@@30
+underweight@@breakfast@@Toast, omelette, sausage, bacon@@juice@@fizzy drinks@@60
+underweight@@breakfast@@Toast, bacon, chicken patty, baked beans@@freshly made juice@@fizzy drinks@@30
+underweight@@lunch@@Chicken burger, chips, salad@@fizzy drinks@@Juice@@30
+underweight@@lunch@@seafood pizza, chicken wings@@Water@@Juice@@30
+underweight@@dinner@@rice, lentils,chicken chop soeuy@@Water@@Juice@@30
+underweight@@dinner@@cesar salade@@water@@juice@@30

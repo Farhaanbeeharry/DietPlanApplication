@@ -1,0 +1,16 @@
+Squats@@overweight@@Strength@@0.5@@10@@3
+Lunges@@overweight@@Strength@@0.5@@8@@4
+Pushups@@overweight@@Pressure@@0.74@@10@@4
+Pull-ups@@overweight@@Pressure@@0.5@@8@@4
+Rotation@@underweight@@Stretch@@.25@@7@@3
+Bar-fix@@underweight@@strength@@0.5@@7@@5
+Jumping jack@@underweight@@stretch@@0.25@@5@@3
+Squats@@underweight@@stretch@@0.5@@6@@4
+Lunges@@normal@@stretch@@0.25@@5@@3
+Rotation@@normal@@stretch@@0.5@@5@@4
+Pull-up@@normal@@strength@@0.5@@4@@3
+Squats@@normal@@strength@@0.25@@4@@3
+Vertical push-ups@@obese@@strength@@0.5@@5@@3
+Jogging@@obese@@stamina@@0.5@@1@@1
+Yoga@@obese@@stretch@@0.5@@4@@2
+Hip bridge@@obese@@stretch@@0.5@@3@@4
